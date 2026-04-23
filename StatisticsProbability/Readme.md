@@ -1,127 +1,55 @@
+---
+
 # Statistics & Probability Roadmap
 
-A structured, engineering-focused roadmap for mastering **Statistics and Probability** from fundamentals to real-world applications.
+A comprehensive roadmap for learning **statistics and probability** from foundational concepts to advanced topics, with an emphasis on mathematical understanding, computational implementation, and real-world application.
 
 ---
 
 ## Overview
 
-This repository provides a step-by-step learning path covering:
+This repository provides a structured path for mastering statistics and probability beyond introductory coursework. It is designed for learners who want to build strong analytical skills and apply statistical methods in fields such as engineering, data science, and research.
 
-* Mathematical foundations
-* Probability theory
-* Statistical analysis
-* Computational tools
-* Real-world engineering applications
-
-It is especially useful for students in  **engineering, data science, and applied mathematics** .
+The roadmap integrates theory, intuition, and practical implementation to ensure a well-rounded understanding of the subject.
 
 ---
 
-## Learning Roadmap
+## Topics Covered
 
-### 1. Foundation (Mathematics)
+### Probability Theory
 
-Build the required mathematical background:
+* Probability spaces and axioms
+* Random variables (discrete and continuous)
+* Probability distributions
+* Expectation, variance, and moments
+* Conditional probability and independence
+* Limit theorems (Law of Large Numbers, Central Limit Theorem)
 
-* Algebra (equations, exponents, logarithms)
-* Functions and graphing
-* Basic calculus:
-  * Derivatives
-  * Integrals
+### Statistical Methods
 
----
-
-### 2. Probability Theory
-
-Core concepts that power modern statistics:
-
-* Sample space and events
-* Conditional probability
-* Independence
-* Random variables (discrete & continuous)
-* Probability distributions:
-  * Bernoulli
-  * Binomial
-  * Poisson
-  * Normal
-
-**Key Formula:**
-
-P(A∣B)=P(B∣A)P(A)P(B)P(A \mid B) = \frac{P(B \mid A)P(A)}{P(B)}---
-
-### 3. Descriptive Statistics
-
-Understanding and summarizing data:
-
-* Mean, median, mode
-* Variance and standard deviation
-* Data visualization (histograms, box plots)
-* Skewness and kurtosis
-
----
-
-### 4. Inferential Statistics
-
-Making decisions using data:
-
+* Descriptive statistics
 * Sampling techniques
+* Estimation methods
 * Confidence intervals
-* Hypothesis testing:
-  * t-test
-  * z-test
-  * Chi-square test
-* p-values and significance
+* Hypothesis testing
 
----
+### Advanced Topics
 
-### 5. Applied Statistics
-
-Connecting theory to real-world systems:
-
-* Linear and multiple regression
+* Multivariate distributions
+* Regression analysis
+* Bayesian statistics
 * Time series analysis
-* Noise modeling
-* Signal processing basics
-* Filtering techniques (e.g., Kalman Filter)
+* Stochastic processes
 
 ---
 
-### 6. Computational Tools
+## Tools and Technologies
 
-#### Python Libraries
-
-* NumPy
-* SciPy
-* Pandas
-* Matplotlib
-
-#### Other Tools
-
+* Python (NumPy, SciPy, Pandas, Matplotlib)
 * MATLAB
+* Jupyter Notebooks
 
----
-
-## Projects
-
-### Beginner
-
-* Simulate coin toss and dice probabilities
-* Plot probability distributions
-
-### Intermediate
-
-* Build a regression model
-* Analyze real datasets
-
-### Advanced
-
-* Sensor data filtering
-* Noise reduction in signals
-* Kalman filter for tracking systems
-* Signal detection in noisy environments
-
----
+These tools are used for simulation, visualization, and implementation of statistical methods.
 
 ## Repository Structure
 
@@ -170,7 +98,7 @@ statistics-probability-roadmap/
 
 ## Goals
 
-By the end of this roadmap, you should be able to:
+By the end of this roadmap|:
 
 * Model uncertainty mathematically
 * Analyze and interpret real-world data
