@@ -1,5 +1,8 @@
 # Elementary Algebra Notebook
 
+<img width="847" height="377" alt="image" src="https://github.com/user-attachments/assets/af30ed8d-cbd0-486e-8b6e-49adf2493a19" />
+
+
 ## Overview
 
 This notebook is designed to provide a structured introduction to elementary algebra concepts. It focuses on building a strong foundation in mathematical reasoning, symbolic manipulation, and problem-solving techniques that are essential for engineering, data science, and applied mathematics.
